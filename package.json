@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vithalreddy/node-mailin.git"
+    "url": "https://github.com/tomaszkozierowski/node-mailin.git"
   },
   "keywords": [
     "incoming",
