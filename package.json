@@ -41,7 +41,7 @@
     "mailparser": "^3.0.0",
     "semver": "^5.0.1",
     "shelljs": "^0.8.5",
-    "smtp-server": "^3.4.4",
+    "smtp-server": "^3.13.4",
     "spamc": "^0.0.5",
     "spf-validator": "^0.2.0",
     "uuid": "^3.2.1",
